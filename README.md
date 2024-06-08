@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbelLevran
-- 👀 I’m interested in Front End
+- 👀 I’m interested in Front-end web development
 - 🌱 I’m currently learning HTML, CSS, JS, Bootstrap, Git
 - 📫 How to reach me abellevrann@gmail.com or abellevrann@student.unp.ac.id
 
